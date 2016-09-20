@@ -1,5 +1,8 @@
-FirmaXadesNet
+FirmaXadesNet (rama personal para realizar algunos arreglillos)
 =============
+
+La versión oficial está en: https://github.com/ctt-gob-es/FirmaXadesNet45
+-------------
 
 INTRODUCCIÓN
 -------------
